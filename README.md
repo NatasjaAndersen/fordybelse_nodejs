@@ -48,3 +48,15 @@ Torsdag 21/12-2017:
 - 10-11:30 -> -||-
 - 12-13:30 -> -||-
 - 13:40-15:10 -> -||-
+```
+-------------------------
+## Prioriteringsliste:
+*Listen her kan ændre sig som tiden går, meget afhænger af den tid jeg har til rådighed og mit arbejdsflow*
+- 1) Gå i dybden med nodejs
+- 2) Gå i dybten med API/routes
+- 3) Gå i dybden med Restify (og andre frameworks f.eks *express*, *mongodb* osv)
+- 4) Gå i dybden med CRUD
+--------------------------
+## Bemærkninger:
+Jeg vil lave de forskellige kode-eksempler i forskellige filer med tilhørende filnavne så det er nemt for mig selv, men også for dig som læser det her at finde rundt i, hvis du har spørgsmål er du velkommen til at sende mig en besked.
+
